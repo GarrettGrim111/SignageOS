@@ -1,0 +1,13 @@
+visit https://box.signageos.io/
+Get email input, type inside value, check if input contains at least one word
+Get password input, type inside value, check if value contains at least one number
+Click on submit
+Wait for the page to load
+Make sure URL contains word "box"
+visit https://box.signageos.io/
+visit https://box.signageos.io/
+Get email input, type inside value, check if input contains at least one word
+Get password input, type inside value, check if value contains at least one number
+Click on submit
+Wait for the page to load
+Make sure URL contains word "box"
